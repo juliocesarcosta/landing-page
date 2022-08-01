@@ -1,2 +1,2 @@
 # landing-page
-Feito no curso.
+landing-page mais um projeto feito do curso.
